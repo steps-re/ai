@@ -1,5 +1,14 @@
 # @ai-sdk/google
 
+## 3.0.90
+
+### Patch Changes
+
+- afee362: Pass documented Gemini external HTTPS file URLs through without downloading them.
+- 327642b: fix: more precise default message for tool execution denial
+- Updated dependencies [d559de9]
+  - @ai-sdk/provider-utils@4.0.37
+
 ## 3.0.89
 
 ### Patch Changes
